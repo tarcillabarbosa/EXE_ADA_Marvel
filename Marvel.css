@@ -1,0 +1,64 @@
+body{
+    background: url("https://img.goodfon.com/original/1920x1200/b/bc/spiderman-spider-man-marvel.jpg") no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Arial';
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+ 
+ }
+    
+ h1{
+     color: rgb(57, 142, 253);
+     text-align: center;
+     border: 5px solid yellow;
+     background-color: yellow;
+     padding: 10px; 
+     margin: 0 0 20px;
+ } 
+ 
+ p{
+ 
+     color: rgb(57, 142, 253);
+     display: inline;
+     background-color: rgba(0, 0, 0, 0.8);
+     margin-bottom: 0;
+ }
+ 
+ ol{
+     color:yellow;
+     list-style: none;
+     padding: 10px;
+ }
+ 
+ h2{
+     color: rgb(57, 142, 253);
+     display: inline;
+     background-color: rgba(0, 0, 0, 0.8);
+ }
+ 
+ table {
+     text-align: center;
+     color: rgb(57, 142, 253);
+     margin: 20px auto;
+     width: 40%; 
+ }
+ 
+ tr{
+     text-align: center;
+     background-color: rgba(0, 0, 0, 0.8);
+ }
+ 
+ th{
+     color:rgb(228, 3, 3);
+     text-align: center;
+     padding: 20px;
+     border: 1px solid rgb(57, 142, 253);
+ }
+ 
+ td{
+     color:rgb(255, 251, 0);
+     padding: 20px;
+     border: 1px solid rgb(57, 142, 253);
+ }
